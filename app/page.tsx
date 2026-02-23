@@ -464,7 +464,7 @@ const daftarSiswaOriginal = [
 ];
 
 // Menambahkan ID otomatis ke tiap siswa
-const daftarSiswa = daftarSiswaOriginal.map((s, index) => ({ id: index + 1, ...s }));
+const daftarSiswa = 
 
 export default function PresensiSiswa() {
   const [presensi, setPresensi] = useState({});
