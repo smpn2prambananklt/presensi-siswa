@@ -567,7 +567,4 @@ export default function PresensiSiswa() {
         >
           📥 DOWNLOAD LAPORAN (CSV)
         </button>
-      </div>
-    </div>
-  );
 }
