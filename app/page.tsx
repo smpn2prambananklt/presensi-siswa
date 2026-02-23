@@ -1,8 +1,6 @@
 n
 "use client";
 import React, { useState, useEffect } from 'react';
-
-// DATA LENGKAP SISWA (SAYA MASUKKAN SEMUA YANG BAPAK/IBU BERIKAN)
 const daftarSiswa = [
   { id: 1, nama: "ABID DWI SAPUTRA", kelas: "9A" },
   { id: 2, nama: "AISYAH ENGGAR WIGATININGRUM", kelas: "9A" },
