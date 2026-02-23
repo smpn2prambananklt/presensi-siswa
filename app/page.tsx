@@ -462,10 +462,6 @@ const daftarSiswaOriginal = [
   { nama: "VREZA ALFIAN MAULANA", kelas: "7E" },
   { nama: "ZIDANE ANDROMEDA PUTRA", kelas: "7E" }
 ];
-
-// Menambahkan ID otomatis ke tiap siswa
-const daftarSiswa = 
-
 export default function PresensiSiswa() {
   const [presensi, setPresensi] = useState({});
   const [tanggal, setTanggal] = useState("");
